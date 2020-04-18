@@ -1,0 +1,15 @@
+{
+  "props": [],
+  "components": {
+    "audioData": {
+      "type": "script\\storage\\IniStorage",
+      "x": 32,
+      "y": 16,
+      "props": {
+        "path": "audio.data",
+        "autoSave": "1",
+        "multiLineValues": "1"
+      }
+    }
+  }
+}
